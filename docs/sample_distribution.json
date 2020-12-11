@@ -11,17 +11,17 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
+            "id": "Andaria 1.16.4 Serveur Survie",
+            "name": "Andaria 1.16.4 Serveur Survie",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "https://media.discordapp.net/attachments/725743694099120128/787070054356221962/icon.png?width=671&height=671",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "andaria.boxtoplay.com",
+            "minecraftVersion": "1.16.4",
             "discord": {
-                "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
-                "largeImageKey": "server-prod"
+                "shortId": "Survie",
+                "largeImageText": "Andaria",
+                "largeImageKey": "Serveur Survie"
             },
             "mainServer": true,
             "autoconnect": true,
